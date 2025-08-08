@@ -1,9 +1,9 @@
-import Dani from "./Dani"
+import Antony from "./3Antony"
 function Frase() {
 return (
 <div>
-<h4> 3 componente </h4>
-<Dani/>
+<h4> 2 componente </h4>
+<Antony/>
 </div>
 )
 }
